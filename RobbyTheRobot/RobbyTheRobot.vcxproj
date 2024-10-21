@@ -135,6 +135,7 @@
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Source1.cpp" />
     <ClCompile Include="TASK 3.cpp" />
+    <ClCompile Include="task 5.cpp" />
     <ClCompile Include="task2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
